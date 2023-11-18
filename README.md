@@ -1,4 +1,4 @@
-<h1>Hello, I'm Freddy! <br/><a href="https://github.com/joshmadakor1">IT Specialist</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">& Military Veteran</a></h1>
+<h1>Hi, I'm Freddy! <br/><a href="https://github.com/joshmadakor1">IT Specialist</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">& Military Veteran</a></h1>
 
 <h2>👨‍💻 Cloud Security Projects:</h2>
 
