@@ -1,20 +1,54 @@
 <h1>Hi, I'm Freddy! <br/><a href="https://github.com/joshmadakor1">IT Specialist</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">& Military Veteran</a></h1>
 
-<h2>👨‍💻 Cloud Security Projects:</h2>
+<h2>👨‍💻 IT Projects/ Cloud Projects/ Security Projects:</h2>
 
-- <b>Active Directory Home Lab w/ PowerShell</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- AZURE ADMINISTRATOR Applied Skills
+ 
+-  <b>AWS/ Security: Identity and Access Management (IAM)<b>
+    - [Coursera Guided Project](https://github.com/joshmadakor1/Algorithms-Practice)
+    
+-  <b>AWS/ Create a Virtual Private Cloud (VPC) 
+    - [Coursera Guided Project](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
+-  <b>AWS/ Deploy a Wordpress Website in EC2
+    - [Coursera Guided Project](https://github.com/joshmadakor1/Algorithms-Practice)
+
+-  <b>AZURE/ Securing Azure SQL Database
+    - [Coursera Guided Project](https://github.com/joshmadakor1/Algorithms-Practice)
+
+-  <b>AZURE/ Active Directory Home Lab w/ PowerShell</b>
+    - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+    
+- <b>AZURE/ Configuring Secure Access to Workloads using Azure Virtual Networking</b>
+   - [MS ADMIN SKILL CERT LINK](https://github.com/joshmadakor1/Algorithms-Practice)
+    
+- <b>AZURE/ Secure storage for Azure Files and Azure Blob Storage<b>
+   - [MS ADMIN SKILL CERT LINK](https://github.com/joshmadakor1/Algorithms-Practice)
+
+- <b>AZURE/ Create and Manage Automated Processes w/ Power AutoMate<b>
+   - [MS ADMIN SKILL CERT LINK](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
+
+-  <b>Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls
+    - [MS ADMIN SKILL CERT LINK](https://github.com/joshmadakor1/Algorithms-Practice)
+
+    
+-  <b>WIRESHARK</b>
+    - [Basic Network Security Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+  
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+    
+    
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+ 
+    
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
